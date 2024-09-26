@@ -1,0 +1,26 @@
+thead {
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 800;
+}
+table {
+    width: 50%;
+    margin: auto;    
+    border-right: 2px solid navy;
+    border-left: 2px solid navy;
+    border-top: 2px solid navy;
+}
+tbody {
+    background-color: burlywood;
+}
+table, th, td {
+    border-bottom: 2px solid navy;
+    border-collapse: collapse;
+}
+th {
+    padding: 0.5em;
+}
+td {
+    text-align: right;
+    padding: 0.2em;
+}
